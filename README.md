@@ -1,4 +1,4 @@
-# SiteTemplate
+# Clean Website Base
 
 Created by Hyper
 
