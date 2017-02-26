@@ -1,4 +1,4 @@
-# Template-Site
+# SiteTemplate
 
 Created by Hyper
 
